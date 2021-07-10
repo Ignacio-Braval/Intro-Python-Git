@@ -1,0 +1,37 @@
+1- git init = inicializa un proyecto en git
+
+2- git add <file> = sirve para pasar los archivos desde el working directory hacia el staging area
+
+3- git status = sirve para poder ver en que estado estan nuestros archivos si en W.D,S.A o REPOSITORY
+
+4- git commit = sirve para pasar el archivo o proyecto desde el S.A hacia el REPOSITORY, crea una especie de
+                pantallazo o primera version
+
+5- git pus = es para subir a un repositorio remoto, asi otros desarrolladores que tienen permisos especiales
+             previamente concedidos, puedan acceder al proyecto y trabajar con el
+
+6- git pull = en caso de estar trabajando con varios desarrolladores, nos trae o muestra los cambios que hayan
+              hecho ellos en el codigo
+
+7- git clone = nos hace una copia desde el servidor central donde esta el codigo hacia nuestra computadora
+
+8- git add. = para pasar todos los archivos hacia el S.A
+
+9- git commit -m "comentario" = realiza la misma funcion que el comando commit anterior pero esta vez deja un
+                                deja un comentario sin necesidad de entrar al editor de texto pre establecido
+
+10- git checkout --<file> = sirve para revertir los cambios que hayamos hecho previamente en ese archivo
+
+11- git diff <file> = para ver las diferencias o cambios hecho en esos archivos
+
+12- git branch = para ver en que rama nos encontramos (por defecto la consola nos ubica en "master")
+
+13- git branch "nombre" = crea una nueva rama
+
+14- git checkout "nombre" = ir a una rama en especifico
+
+15- git config --global user.mail "email" = para configurar el email del usuario en trabajo
+
+16- git config --global user.name "nombre" = para configurar el nombre del ususario en trabajo
+
+
