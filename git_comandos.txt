@@ -30,8 +30,8 @@
 
 14- git checkout "nombre" = ir a una rama en especifico
 
-15- git config --global user.mail "email" = para configurar el email del usuario en trabajo
+15- git config --global user.email "email" = para configurar el email del usuario en trabajo
 
 16- git config --global user.name "nombre" = para configurar el nombre del ususario en trabajo
 
-
+17- git log = nos muestra quien ha hecho cambios.
