@@ -6,7 +6,7 @@ productos = { #los diccionarios se componene de una clave y un dato.
 print(dir(productos))#este comando me indicaria que puedo hacer yo con con ese diccionario llamado "productos"
 persona = {
     "nombre" : "ignacio",
-    "rut" : "19.125.264-0",
+    "rut" : "",
     "edad" : 25
     }
 
