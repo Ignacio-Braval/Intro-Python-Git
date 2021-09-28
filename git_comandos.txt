@@ -35,3 +35,7 @@
 16- git config --global user.name "nombre" = para configurar el nombre del ususario en trabajo
 
 17- git log = nos muestra quien ha hecho cambios.
+
+18- git pull --rebase origin master = traer los cambios del repositorio remoto (github) hacia el repositorio local
+
+19- git push -u origin master = actualizar nuestro cambios del repositorio local hacia el repositorio remoto (github)
